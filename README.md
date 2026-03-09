@@ -2,6 +2,8 @@
 
 This project analyzes and visualizes COVID-19 data to understand the global impact of the pandemic.
 
+🔗 Live Demo: laxmiyadav708-dataviz-covid19-impact-app-ucbg4y.streamlit.app
+
 ## 🚀 Features
 
 * Country-wise COVID analysis
