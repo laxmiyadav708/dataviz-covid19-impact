@@ -2,22 +2,24 @@
 
 This project analyzes and visualizes COVID-19 data to understand the global impact of the pandemic.
 
-🔗 [Live Demo →](https://laxmiyadav708-dataviz-covid19-impact-app-ucbg4y.streamlit.app)
+🔗 [Live Demo →](https://laxmiyadav708-dataviz-covid19-impact-app-ucbg4y.streamlit.app/)
 
 ## 🚀 Features
 
-* Country-wise COVID analysis
-* Data visualization using charts
-* Interactive dashboard
-* Real-time data exploration
+* Country-wise COVID-19 analysis  
+* Data visualization using interactive charts  
+* Interactive dashboard with user-friendly interface  
+* Real-time data exploration and filtering  
+
+
 
 ## 🛠 Tech Stack
 
-* Python
-* Pandas
-* Matplotlib / Plotly
-* Streamlit / Flask
-
+*  **Language**: Python  
+* **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit  
+* **Deployment**: Streamlit Cloud  
+* **Dataset**: Kaggle / WHO COVID‑19 data
+  
 ## 📂 Project Structure
 
 ```
@@ -46,7 +48,7 @@ pip install -r requirements.txt
 3. Run the application
 
 ```
-python app.py
+streamlit run app.py
 ```
 
 ## 📈 Output
@@ -55,5 +57,5 @@ The dashboard displays visual insights into COVID-19 cases, deaths, and recoveri
 
 ## 👩‍💻 Author
 
-Laxmi Yadav
+Laxmi
 
