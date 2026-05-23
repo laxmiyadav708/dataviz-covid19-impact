@@ -1,6 +1,6 @@
 # 📊 COVID-19 Data Visualization Dashboard
 
-This project analyzes and visualizes COVID-19 data to understand the global impact of the pandemic.
+An interactive data visualization dashboard that analyzes and presents the global impact of COVID-19 — exploring cases, deaths, and recoveries across countries using real-world datasets.
 
 🔗 [Live Demo →](https://laxmiyadav708-dataviz-covid19-impact-app-ucbg4y.streamlit.app/)
 
